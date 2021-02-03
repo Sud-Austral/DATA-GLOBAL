@@ -1,0 +1,8 @@
+DATAGLOBAL - Todos los países LAC
+
+https://app.powerbi.com/view?r=eyJrIjoiMzM2YTQ3ODMtZmI4My00NDkzLWI4YzctOTAyZDRkYzFhOTIxIiwidCI6IjhmYmFhNWJmLTJlY2MtNGRjOC1iNTZiLThmOTJlMzA3ZjA3NiIsImMiOjR9
+
+DATAGLOBAL - Por país (Honduras)
+
+https://app.powerbi.com/view?r=eyJrIjoiYWQ2NTlkNjAtNjY1Yy00YjRlLTg3YWYtMDU5NmI5OTZkMzg4IiwidCI6IjhmYmFhNWJmLTJlY2MtNGRjOC1iNTZiLThmOTJlMzA3ZjA3NiIsImMiOjR9
+
